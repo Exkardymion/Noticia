@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,eAAe,CAAC;EACZ,KAAK,EAAE,IAAI;EACX,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,KAAK;EACb,WAAW,EAAE,KAAK;CAmBrB;;AAvBD,AAOI,eAPW,CAOX,OAAO,CAAC;EACL,KAAK,EAAE,IAAI;CAWb;;AAnBL,AAWQ,eAXO,CAOX,OAAO,CAIH,EAAE,CAAC;EACC,SAAS,EAAE,IAAI;EACf,WAAW,EAAE,KAAK;EAClB,UAAU,EAAE,IAAI;EAChB,OAAO,EAAE,IAAI;CAChB",
+    "sources": [
+        "Pag_apoyo_noticia.scss"
+    ],
+    "names": [],
+    "file": "Pag_apoyo_noticia.css"
+}
