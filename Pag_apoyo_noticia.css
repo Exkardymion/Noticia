@@ -9,10 +9,27 @@
   float: left;
 }
 
-.caja_de_fondo1 .titulo h1 {
+.caja_de_fondo1 .titulo > h1 {
+  width: 600px;
   font-size: 34px;
   line-height: 1.4em;
   text-align: left;
-  padding: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.caja_de_fondo1 .titulo .imagen1 {
+  float: left;
+}
+
+.caja_de_fondo1 .titulo .imagen2 {
+  margin-left: 18cm;
+}
+
+.caja_de_fondo1 .titulo .contenido > h2 {
+  font-size: 16px;
+  line-height: 1.5em;
+  font-family: Arial, Helvetica, sans-serif;
+  text-decoration: none;
+  width: 600px;
 }
 /*# sourceMappingURL=Pag_apoyo_noticia.css.map */
