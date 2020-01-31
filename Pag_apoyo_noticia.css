@@ -7,10 +7,11 @@
 
 .caja_de_fondo1 .titulo {
   float: left;
+  width: 60%;
 }
 
 .caja_de_fondo1 .titulo > h1 {
-  width: 600px;
+  width: 40%;
   font-size: 34px;
   line-height: 1.4em;
   text-align: left;
@@ -53,5 +54,29 @@
 .caja_de_fondo1 .titulo .contenido > h1 #Addcoment .textarea {
   min-height: 20cm;
   max-height: 10cm;
+}
+
+.caja_de_fondo1 .cuadro_de_publicidad {
+  width: 100%;
+  margin-top: 20cm;
+  margin-right: 50cm;
+}
+
+.caja_de_fondo1 .cuadro_de_publicidad img {
+  width: 100px;
+  height: 100px;
+}
+
+.caja_de_fondo1 .cuadro_de_publicidad img + img {
+  width: 100px;
+  height: 100px;
+}
+
+.caja_de_fondo1 .cuadro_de_publicidad .t1 > p:first-child {
+  display: none;
+}
+
+.caja_de_fondo1 .cuadro_de_publicidad .t1 > p:first-child ~ p {
+  color: red;
 }
 /*# sourceMappingURL=Pag_apoyo_noticia.css.map */
