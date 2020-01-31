@@ -23,18 +23,38 @@
        .imagen2{
            margin-left: 18cm;
 
-       }
-       
-    
-               
+       }     
            
        .contenido{
-             > h2 {
-             font-size: 16px;
+             >h1 {
+             font-size: 15px;
              line-height: 1.5em;
              font-family: Arial, Helvetica, sans-serif;
              text-decoration: none;
              width: 600px;
+             #Addcoment{
+                    float: left;
+                    width: 100%;
+
+                    p{ font-size: 15px;
+                        line-height: 1.5em;
+                        font-family: Arial, Helvetica, sans-serif;
+                        text-decoration: none;
+                        width: 600px;
+
+                    }
+
+                    .input .textarea{
+                         width: 100%;
+                   
+                     }
+                    .textarea{
+                         min-height: 20cm;
+                         max-height: 10cm;
+                     }
+
+             }
+            
              
               }     
 
